@@ -8,7 +8,7 @@ A super simple ADSR enveloper for audio tracks.
 https://maxforlive.com/library/device/7508/audio-adsr
 
 ## Requirements
-- Ableton Live 9.7.7 / Cycling '74 Max 6.7.7 or later
+- Ableton Live 11.0.5 / Cycling '74 Max 8.1.11 or later
 
 ## Parameters
 - `MIDI Input Type` Selects MIDI input type from MIDI tracks or external MIDI devices. Just like 'MIDI From' of MIDI tracks.
