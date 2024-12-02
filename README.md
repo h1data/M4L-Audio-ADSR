@@ -26,4 +26,4 @@ TIP: setting negative value produces like sidechain-compressed effect.
 - `Legato` When enabled, the envelope wouldn't start with note on while playing at least one note.
 
 ## Known Issues
-see (Issues)[https://github.com/h1data/M4L-Audio-ADSR/issues?q=]
+see [Issues](https://github.com/h1data/M4L-Audio-ADSR/issues?q=)
